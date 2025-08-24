@@ -16,9 +16,9 @@ Develop a ticketing system to:
 ## 🧰 Tech Stack
 
 ### Backend
-- **Java / Kotlin**
+- **Java **
 - **Spring Boot**
-- **PostgreSQL**
+- **MySQL**
 
 ### Frontend
 - **Next.js (React-based framework)**
@@ -78,7 +78,7 @@ Develop a ticketing system to:
 ### Prerequisites
 - Node.js & npm
 - Java 17+
-- PostgreSQL
+- MySQL
 
 ### Backend Setup
 ```bash
